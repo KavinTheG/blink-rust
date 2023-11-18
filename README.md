@@ -3,7 +3,7 @@
 This is a project to blink an LED every second on an STM32f411ve Discovery Board.
 
 
-### Dependencies
+### Sources
 
 Uses template provided by [Cortex-M team][team].
 
