@@ -1,6 +1,6 @@
 [package]
 authors = ["Kavin Gnanapandithan <kavin.balag@gmail.com>"]
-edition = "2018"
+edition = "2023"
 readme = "README.md"
 name = "blinky"
 version = "0.1.0"
